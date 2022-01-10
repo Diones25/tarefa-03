@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <a href="https://github.com/Diones25/accounts">
+  <a href="https://github.com/Diones25/tarefa-03">
     <img src="./public/img/node.png" alt="Logo" height="300">
   </a>
 
